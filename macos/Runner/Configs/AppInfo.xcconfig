@@ -8,7 +8,7 @@
 PRODUCT_NAME = firebase_auth_test
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.firebaseAuthTest
+PRODUCT_BUNDLE_IDENTIFIER = com.budini.testes
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2024 com.example. All rights reserved.
